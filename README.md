@@ -1,4 +1,5 @@
-#  Hey, I'm Ajay!
 
-1. `I use my brain 🧠` (occasionally) — written by ChatGPT 🤖
-2. `I also use Python, JavaScript, HTML5, CSS3, and SQL toooo!`
+# 🍀 𝗛𝗲𝘆, 𝗜'𝗺 𝗔𝗷𝗮𝘆!
+
+1. `𝗜 𝘂𝘀𝗲 𝗺𝘆 𝗯𝗿𝗮𝗶𝗻 🧠` (𝗼𝗰𝗰𝗮𝘀𝗶𝗼𝗻𝗮𝗹𝗹𝘆) — 𝘄𝗿𝗶𝘁𝘁𝗲𝗻 𝗯𝘆 𝗖𝗵𝗮𝘁𝗚𝗣𝗧 🤖
+2. `𝗜 𝗮𝗹𝘀𝗼 𝘂𝘀𝗲 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗮𝗻𝗱 𝗦𝗤𝗟 𝘁𝗼𝗼𝗼𝗼!`
